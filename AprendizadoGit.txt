@@ -1,1 +1,3 @@
 Planejamento da estrtura do sorter
+	-Criar estutura de erros;
+	-Mapear entradas e saídas;
