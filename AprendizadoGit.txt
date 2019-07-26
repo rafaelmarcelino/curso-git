@@ -1,1 +1,3 @@
-Planejamento da estrtura do sorter
+Planejamento da estrutura dos objetos
+Planejamento das falhas e erros
+Planejamento da simulação de posição
